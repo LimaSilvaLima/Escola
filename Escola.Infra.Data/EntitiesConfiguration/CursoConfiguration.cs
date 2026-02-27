@@ -1,0 +1,29 @@
+﻿using Escola.domain.Entities;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Metadata.Builders;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Escola.Infra.Data.EntitiesConfiguration
+{
+    public class CursoConfiguration : IEntityTypeConfiguration<Curso>
+    {
+        public void Configure(EntityTypeBuilder<Curso> builder)
+        {
+            builder.Haskey(Curso => Curso.Id);
+            builder.Property(c => c.nome)
+                .IsRequired()
+                .HasMaxLength(50);
+            builder.Property(c => c.Descricao)
+                .HasMaxLength(150);
+        }
+
+        void IEntityTypeConfiguration<Curso>.Configure(EntityTypeBuilder<Curso> builder)
+        {
+            throw new NotImplementedException();
+        }
+    }
+}

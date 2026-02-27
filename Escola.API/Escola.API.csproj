@@ -19,4 +19,8 @@
     <ContainerPort Include="8081" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Escola.Infra.Ioc\Escola.Infra.Ioc.csproj" />
+  </ItemGroup>
+
 </Project>
