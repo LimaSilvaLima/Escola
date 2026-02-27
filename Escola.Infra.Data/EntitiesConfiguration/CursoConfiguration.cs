@@ -13,8 +13,8 @@ namespace Escola.Infra.Data.EntitiesConfiguration
     {
         public void Configure(EntityTypeBuilder<Curso> builder)
         {
-            builder.Haskey(Curso => Curso.Id);
-            builder.Property(c => c.nome)
+            builder.HasKey(c => c.Id);
+            builder.Property(c => c.Nome)
                 .IsRequired()
                 .HasMaxLength(50);
             builder.Property(c => c.Descricao)
