@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Escola.domain.Entities;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
 
 namespace Escola.Infra.Data.EntitiesConfiguration
@@ -17,16 +19,18 @@ namespace Escola.Infra.Data.EntitiesConfiguration
                 .IsRequired();
             builder.Property(m => m.TurmaId)
                 .IsRequired();
-            builder.HasOne(x => x.Usuario).
+            builder.HasOne(x => x.Usuario)
                 .WithMany(x => x.Matriculas)
                 .HasForeignKey(x => x.UsuarioId)
                 .OnDelete(DeleteBehavior.NoAction);
             builder.HasOne(x => x.Turma)
-                .withMany(x => x.Matriculas)
+                .WithMany(x => x.Matriculas)
                 .HasForeignKey(x => x.TurmaId)
                 .OnDelete(DeleteBehavior.NoAction);
 
 
         }
+
+        
     }
 }
