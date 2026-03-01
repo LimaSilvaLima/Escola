@@ -21,9 +21,5 @@ namespace Escola.Infra.Data.EntitiesConfiguration
                 .HasMaxLength(150);
         }
 
-        void IEntityTypeConfiguration<Curso>.Configure(EntityTypeBuilder<Curso> builder)
-        {
-            throw new NotImplementedException();
-        }
     }
 }

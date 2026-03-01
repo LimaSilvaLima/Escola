@@ -28,9 +28,7 @@ namespace Escola.Infra.Data.EntitiesConfiguration
                 .HasForeignKey(x => x.TurmaId)
                 .OnDelete(DeleteBehavior.NoAction);
 
-
         }
-
         
     }
 }
