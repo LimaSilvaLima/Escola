@@ -1,36 +1,34 @@
-﻿using Escola.domain.Entities;
-using Escola.domain.Interfaces;
+﻿using Escola.Domain.Entities;
+using Escola.Domain.Interfaces;
 using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace Escola.Infra.Data.Repositories
 {
     public class TurmaRepository : ITurmaRepository
     {
-        Task<Turma> ITurmaRepository.AddAsync(Turma turma)
+        public Task<Turma> AddAsync(Turma turma)
         {
             throw new NotImplementedException();
         }
 
-        Task ITurmaRepository.DeleteAsync(int id)
+        public Task<Turma> DeleteAssync(int id)
         {
             throw new NotImplementedException();
         }
 
-        Task<List<Turma>> ITurmaRepository.GetAllAsync()
+        public Task<List<Turma>> GetAllAsync()
         {
             throw new NotImplementedException();
         }
 
-        Task<Turma> ITurmaRepository.GetByIdAsync(int id)
+        public Task<Turma> GetByIdAsync(int id)
         {
             throw new NotImplementedException();
         }
 
-        Task<Turma> ITurmaRepository.UpdateAsync(Turma turma)
+        public Task<Turma> UpdateAsync(Turma turma)
         {
             throw new NotImplementedException();
         }

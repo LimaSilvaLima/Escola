@@ -1,18 +1,16 @@
-﻿using Escola.domain.Entities;
+﻿using Escola.Domain.Entities;
 using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
-namespace Escola.domain.Interfaces
+namespace Escola.Domain.Interfaces
 {
     public interface IMatriculaRepository
     {
-        Task<Matricula> GetByIdAsync(int  id);
+        Task<Matricula> GetByIdAsync(int id);
         Task<List<Matricula>> GetAllAsync();
         Task<Matricula> AddAsync(Matricula matricula);
         Task<Matricula> UpdateAsync(Matricula matricula);
-        Task<Matricula> DeleteAsync(int id);
+        Task<Matricula> DeleteAssync(int id);
     }
 }

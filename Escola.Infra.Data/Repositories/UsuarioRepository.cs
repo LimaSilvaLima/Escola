@@ -1,11 +1,8 @@
-﻿using Escola.domain.Entities;
-using Escola.domain.Interfaces;
+﻿using Escola.Domain.Entities;
+using Escola.Domain.Interfaces;
 using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
-using Microsoft.EntityFrameworkCore;
 
 namespace Escola.Infra.Data.Repositories
 {
@@ -16,7 +13,7 @@ namespace Escola.Infra.Data.Repositories
             throw new NotImplementedException();
         }
 
-        public Task DeleteAsync(int id)
+        public Task<Usuario> DeleteAssync(int id)
         {
             throw new NotImplementedException();
         }
@@ -26,7 +23,7 @@ namespace Escola.Infra.Data.Repositories
             throw new NotImplementedException();
         }
 
-        public Task<Usuario> GetById(int id)
+        public Task<Usuario> GetByIdAsync(int id)
         {
             throw new NotImplementedException();
         }

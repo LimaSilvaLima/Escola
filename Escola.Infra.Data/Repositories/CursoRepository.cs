@@ -1,36 +1,34 @@
-﻿using Escola.domain.Entities;
-using Escola.domain.Interfaces;
+﻿using Escola.Domain.Entities;
+using Escola.Domain.Interfaces;
 using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace Escola.Infra.Data.Repositories
 {
     public class CursoRepository : ICursoRepository
     {
-        Task<Curso> ICursoRepository.addAsync(Curso curso)
+        public Task<Curso> AddAsync(Curso curso)
         {
             throw new NotImplementedException();
         }
 
-        Task<Curso> ICursoRepository.DeloeteAsync(int id)
+        public Task<Curso> DeleteAssync(int id)
         {
             throw new NotImplementedException();
         }
 
-        Task<List<Curso>> ICursoRepository.GetAllAsync()
+        public Task<List<Curso>> GetAllAsync()
         {
             throw new NotImplementedException();
         }
 
-        Task<Curso> ICursoRepository.GetByIdAsync(int id)
+        public Task<Curso> GetByIdAsync(int id)
         {
             throw new NotImplementedException();
         }
 
-        Task<Curso> ICursoRepository.UpdateAsync(Curso curso)
+        public Task<Curso> UpdateAsync(Curso curso)
         {
             throw new NotImplementedException();
         }
