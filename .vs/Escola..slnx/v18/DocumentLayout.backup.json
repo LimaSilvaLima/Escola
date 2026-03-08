@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Workspace-Eclipse-Spring-tool\\Escola\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95AD7D5C-ACCB-2EA2-0B69-60878CF810D8}|Escola.Infra.Data\\Escola.Infra.Data.csproj|c:\\workspace-eclipse-spring-tool\\escola\\escola.infra.data\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95AD7D5C-ACCB-2EA2-0B69-60878CF810D8}|Escola.Infra.Data\\Escola.Infra.Data.csproj|solutionrelative:escola.infra.data\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95AD7D5C-ACCB-2EA2-0B69-60878CF810D8}|Escola.Infra.Data\\Escola.Infra.Data.csproj|c:\\workspace-eclipse-spring-tool\\escola\\escola.infra.data\\repositories\\matricularepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95AD7D5C-ACCB-2EA2-0B69-60878CF810D8}|Escola.Infra.Data\\Escola.Infra.Data.csproj|solutionrelative:escola.infra.data\\repositories\\matricularepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95AD7D5C-ACCB-2EA2-0B69-60878CF810D8}|Escola.Infra.Data\\Escola.Infra.Data.csproj|c:\\workspace-eclipse-spring-tool\\escola\\escola.infra.data\\repositories\\notarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95AD7D5C-ACCB-2EA2-0B69-60878CF810D8}|Escola.Infra.Data\\Escola.Infra.Data.csproj|solutionrelative:escola.infra.data\\repositories\\notarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95AD7D5C-ACCB-2EA2-0B69-60878CF810D8}|Escola.Infra.Data\\Escola.Infra.Data.csproj|c:\\workspace-eclipse-spring-tool\\escola\\escola.infra.data\\repositories\\turmarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95AD7D5C-ACCB-2EA2-0B69-60878CF810D8}|Escola.Infra.Data\\Escola.Infra.Data.csproj|solutionrelative:escola.infra.data\\repositories\\turmarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18C1020A-029B-1F01-0407-278742D20C54}|Escola.Domain\\Escola.Domain.csproj|c:\\workspace-eclipse-spring-tool\\escola\\escola.domain\\interfaces\\imatricularepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18C1020A-029B-1F01-0407-278742D20C54}|Escola.Domain\\Escola.Domain.csproj|solutionrelative:escola.domain\\interfaces\\imatricularepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18C1020A-029B-1F01-0407-278742D20C54}|Escola.Domain\\Escola.Domain.csproj|c:\\workspace-eclipse-spring-tool\\escola\\escola.domain\\interfaces\\inotarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18C1020A-029B-1F01-0407-278742D20C54}|Escola.Domain\\Escola.Domain.csproj|solutionrelative:escola.domain\\interfaces\\inotarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18C1020A-029B-1F01-0407-278742D20C54}|Escola.Domain\\Escola.Domain.csproj|c:\\workspace-eclipse-spring-tool\\escola\\escola.domain\\interfaces\\iturmarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18C1020A-029B-1F01-0407-278742D20C54}|Escola.Domain\\Escola.Domain.csproj|solutionrelative:escola.domain\\interfaces\\iturmarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Workspace-Eclipse-Spring-tool\\Escola\\Escola.Infra.Data\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Escola.Infra.Data\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Workspace-Eclipse-Spring-tool\\Escola\\Escola.Infra.Data\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Escola.Infra.Data\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T22:40:39.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MatriculaRepository.cs",
+              "DocumentMoniker": "C:\\Workspace-Eclipse-Spring-tool\\Escola\\Escola.Infra.Data\\Repositories\\MatriculaRepository.cs",
+              "RelativeDocumentMoniker": "Escola.Infra.Data\\Repositories\\MatriculaRepository.cs",
+              "ToolTip": "C:\\Workspace-Eclipse-Spring-tool\\Escola\\Escola.Infra.Data\\Repositories\\MatriculaRepository.cs",
+              "RelativeToolTip": "Escola.Infra.Data\\Repositories\\MatriculaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T22:05:22.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "INotaRepository.cs",
+              "DocumentMoniker": "C:\\Workspace-Eclipse-Spring-tool\\Escola\\Escola.Domain\\Interfaces\\INotaRepository.cs",
+              "RelativeDocumentMoniker": "Escola.Domain\\Interfaces\\INotaRepository.cs",
+              "ToolTip": "C:\\Workspace-Eclipse-Spring-tool\\Escola\\Escola.Domain\\Interfaces\\INotaRepository.cs",
+              "RelativeToolTip": "Escola.Domain\\Interfaces\\INotaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T22:00:57.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotaRepository.cs",
+              "DocumentMoniker": "C:\\Workspace-Eclipse-Spring-tool\\Escola\\Escola.Infra.Data\\Repositories\\NotaRepository.cs",
+              "RelativeDocumentMoniker": "Escola.Infra.Data\\Repositories\\NotaRepository.cs",
+              "ToolTip": "C:\\Workspace-Eclipse-Spring-tool\\Escola\\Escola.Infra.Data\\Repositories\\NotaRepository.cs",
+              "RelativeToolTip": "Escola.Infra.Data\\Repositories\\NotaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T22:00:49.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ITurmaRepository.cs",
+              "DocumentMoniker": "C:\\Workspace-Eclipse-Spring-tool\\Escola\\Escola.Domain\\Interfaces\\ITurmaRepository.cs",
+              "RelativeDocumentMoniker": "Escola.Domain\\Interfaces\\ITurmaRepository.cs",
+              "ToolTip": "C:\\Workspace-Eclipse-Spring-tool\\Escola\\Escola.Domain\\Interfaces\\ITurmaRepository.cs",
+              "RelativeToolTip": "Escola.Domain\\Interfaces\\ITurmaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T21:54:51.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TurmaRepository.cs",
+              "DocumentMoniker": "C:\\Workspace-Eclipse-Spring-tool\\Escola\\Escola.Infra.Data\\Repositories\\TurmaRepository.cs",
+              "RelativeDocumentMoniker": "Escola.Infra.Data\\Repositories\\TurmaRepository.cs",
+              "ToolTip": "C:\\Workspace-Eclipse-Spring-tool\\Escola\\Escola.Infra.Data\\Repositories\\TurmaRepository.cs",
+              "RelativeToolTip": "Escola.Infra.Data\\Repositories\\TurmaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T21:53:22.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IMatriculaRepository.cs",
+              "DocumentMoniker": "C:\\Workspace-Eclipse-Spring-tool\\Escola\\Escola.Domain\\Interfaces\\IMatriculaRepository.cs",
+              "RelativeDocumentMoniker": "Escola.Domain\\Interfaces\\IMatriculaRepository.cs",
+              "ToolTip": "C:\\Workspace-Eclipse-Spring-tool\\Escola\\Escola.Domain\\Interfaces\\IMatriculaRepository.cs",
+              "RelativeToolTip": "Escola.Domain\\Interfaces\\IMatriculaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T17:00:35.82Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
